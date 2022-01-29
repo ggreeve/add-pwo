@@ -20,4 +20,4 @@
 ## About
 A smaller, versatile, cost-effective and energy efficient water quality monitoring system for industry, educational, and research applications. The solution will collect water quality, considering five parameters to start: Dissolved Oxygen (DO), Electric Conductivity (EC), PH+, Temperature, and Water Flow; with expansion capabilities to include other sensors.
 
-Comming song
+Comming soon
